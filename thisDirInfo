@@ -1,0 +1,12 @@
+total 41
+drwxr-xr-x 1 Abdulluh 197121    0 Nov 18 20:35 ./
+drwxr-xr-x 1 Abdulluh 197121    0 Nov 18 20:33 ../
+drwxr-xr-x 1 Abdulluh 197121    0 Nov 18 16:04 .git/
+-rw-r--r-- 1 Abdulluh 197121   13 Nov 18 16:03 .gitignore
+-rw-r--r-- 1 Abdulluh 197121   43 Nov 18 20:30 abc
+-rw-r--r-- 1 Abdulluh 197121    0 Nov 18 20:30 cba
+-rwxr-xr-x 1 Abdulluh 197121  498 Nov 18 13:16 hello.sh*
+-rw-r--r-- 1 Abdulluh 197121  385 Nov 18 20:14 output.txt
+-rwxr-xr-x 1 Abdulluh 197121   76 Nov 18 16:07 read.sh*
+-rw-r--r-- 1 Abdulluh 197121 2781 Nov 18 20:32 rootFileInfo
+-rw-r--r-- 1 Abdulluh 197121    0 Nov 18 20:35 thisDirInfo

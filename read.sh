@@ -1,4 +1,5 @@
 #! usr/bin/bash
 
-read -ap 'input name:' 
-echo $REPLY
+echo 'input name:' 
+read username
+echo my name is $username

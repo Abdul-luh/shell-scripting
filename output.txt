@@ -1,0 +1,8 @@
+total 35
+drwxr-xr-x 1 Abdulluh 197121   0 Nov 18 20:13 ./
+drwxr-xr-x 1 Abdulluh 197121   0 Nov 18 12:49 ../
+drwxr-xr-x 1 Abdulluh 197121   0 Nov 18 16:04 .git/
+-rw-r--r-- 1 Abdulluh 197121  13 Nov 18 16:03 .gitignore
+-rwxr-xr-x 1 Abdulluh 197121 498 Nov 18 13:16 hello.sh*
+-rw-r--r-- 1 Abdulluh 197121   0 Nov 18 20:14 output.txt
+-rwxr-xr-x 1 Abdulluh 197121  76 Nov 18 16:07 read.sh*

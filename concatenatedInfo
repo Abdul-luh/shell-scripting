@@ -1,0 +1,60 @@
+total 41
+drwxr-xr-x 1 Abdulluh 197121    0 Nov 18 20:35 ./
+drwxr-xr-x 1 Abdulluh 197121    0 Nov 18 20:33 ../
+drwxr-xr-x 1 Abdulluh 197121    0 Nov 18 16:04 .git/
+-rw-r--r-- 1 Abdulluh 197121   13 Nov 18 16:03 .gitignore
+-rw-r--r-- 1 Abdulluh 197121   43 Nov 18 20:30 abc
+-rw-r--r-- 1 Abdulluh 197121    0 Nov 18 20:30 cba
+-rwxr-xr-x 1 Abdulluh 197121  498 Nov 18 13:16 hello.sh*
+-rw-r--r-- 1 Abdulluh 197121  385 Nov 18 20:14 output.txt
+-rwxr-xr-x 1 Abdulluh 197121   76 Nov 18 16:07 read.sh*
+-rw-r--r-- 1 Abdulluh 197121 2781 Nov 18 20:32 rootFileInfo
+-rw-r--r-- 1 Abdulluh 197121    0 Nov 18 20:35 thisDirInfo
+total 168
+drwxr-xr-x 1 Abdulluh 197121 0 Nov 18 20:32 ./
+drwxr-xr-x 1 Abdulluh 197121 0 Nov 16 13:28 ../
+drwxr-xr-x 1 Abdulluh 197121 0 Oct 31  2022 .vscode/
+drwxr-xr-x 1 Abdulluh 197121 0 Mar  4  2023 AlarmClock/
+drwxr-xr-x 1 Abdulluh 197121 0 Nov  2 08:19 Algorithms/
+drwxr-xr-x 1 Abdulluh 197121 0 Nov  5 03:39 C folder/
+drwxr-xr-x 1 Abdulluh 197121 0 Apr 11  2023 CRUD application_01/
+drwxr-xr-x 1 Abdulluh 197121 0 Apr 11  2023 CRUD application_02/
+drwxr-xr-x 1 Abdulluh 197121 0 Jan 26  2023 Calender Project/
+drwxr-xr-x 1 Abdulluh 197121 0 Oct 14 17:50 DeCollaborator-Frontend/
+drwxr-xr-x 1 Abdulluh 197121 0 Jun  5 16:16 FullStack Blog/
+drwxr-xr-x 1 Abdulluh 197121 0 Mar 31  2023 Learn-node_n_express/
+drwxr-xr-x 1 Abdulluh 197121 0 Nov 10  2022 My-First-Project/
+drwxr-xr-x 1 Abdulluh 197121 0 Aug 27 12:47 NEXTJS/
+drwxr-xr-x 1 Abdulluh 197121 0 Apr 28  2023 NODE/
+drwxr-xr-x 1 Abdulluh 197121 0 Jan 24  2023 Note app/
+drwxr-xr-x 1 Abdulluh 197121 0 Mar 28  2023 React-Testing-Library/
+drwxr-xr-x 1 Abdulluh 197121 0 Nov 18 07:53 SQL/
+drwxr-xr-x 1 Abdulluh 197121 0 Nov 18 20:30 ShellScripting/
+drwxr-xr-x 1 Abdulluh 197121 0 Jun 13 00:27 Skilled/
+drwxr-xr-x 1 Abdulluh 197121 0 May  1  2023 TAILWIND/
+drwxr-xr-x 1 Abdulluh 197121 0 Feb 15  2023 Tailwind folder/
+drwxr-xr-x 1 Abdulluh 197121 0 Dec 27  2022 Template Designs/
+drwxr-xr-x 1 Abdulluh 197121 0 Nov 17 04:20 Typescript/
+drwxr-xr-x 1 Abdulluh 197121 0 Sep 29  2022 UBAR/
+drwxr-xr-x 1 Abdulluh 197121 0 Mar  3  2023 analogue clock chat gpt/
+drwxr-xr-x 1 Abdulluh 197121 0 Apr 26  2023 authentication-react/
+drwxr-xr-x 1 Abdulluh 197121 0 Aug  7 04:13 blog_website/
+drwxr-xr-x 1 Abdulluh 197121 0 Nov 15 11:50 bloggergram/
+drwxr-xr-x 1 Abdulluh 197121 0 Jul  3 13:31 carousel-Js/
+drwxr-xr-x 1 Abdulluh 197121 0 Dec 24  2022 css practice lounge/
+drwxr-xr-x 1 Abdulluh 197121 0 Jul 19 09:58 excercise files/
+drwxr-xr-x 1 Abdulluh 197121 0 Feb 18  2023 first C program/
+drwxr-xr-x 1 Abdulluh 197121 0 Nov  2  2022 folder structure/
+drwxr-xr-x 1 Abdulluh 197121 0 Feb 17  2023 frondend-mentor projects/
+drwxr-xr-x 1 Abdulluh 197121 0 Jul 17 11:04 images/
+drwxr-xr-x 1 Abdulluh 197121 0 Nov 18 12:29 javaScript practice area/
+drwxr-xr-x 1 Abdulluh 197121 0 Apr  2  2023 learn react personal/
+drwxr-xr-x 1 Abdulluh 197121 0 Mar 12  2023 learn-react-in-x-minutes-1/
+drwxr-xr-x 1 Abdulluh 197121 0 Aug  7 01:25 learning_platform/
+drwxr-xr-x 1 Abdulluh 197121 0 Sep 21 16:07 my_portfolio/
+drwxr-xr-x 1 Abdulluh 197121 0 Jun  9 23:55 next-js/
+drwxr-xr-x 1 Abdulluh 197121 0 May 19  2023 port-folio/
+drwxr-xr-x 1 Abdulluh 197121 0 Feb 24  2023 port-forlio - 2/
+drwxr-xr-x 1 Abdulluh 197121 0 Jul 24 22:43 python 101/
+-rw-r--r-- 1 Abdulluh 197121 0 Nov 18 20:32 rootFileInfo
+drwxr-xr-x 1 Abdulluh 197121 0 Jul 30 07:46 test/
