@@ -1,0 +1,4 @@
+#! /usr/bin/bash
+
+chmod u+x hello
+# conversion to executable file
